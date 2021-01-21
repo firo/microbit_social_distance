@@ -1,9 +1,10 @@
 {
-    "name": "microbit_social_distance",
+    "name": "microbit-social-distance",
     "description": "",
     "dependencies": {
         "core": "*",
-        "radio": "*"
+        "radio": "*",
+        "microphone": "*"
     },
     "files": [
         "main.blocks",
